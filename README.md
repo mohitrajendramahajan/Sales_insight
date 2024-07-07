@@ -61,3 +61,8 @@ HERE ARE SOME REVIEW PHOTOS FOR THE DASHBOARD:
 3. Zones by market<br>
 
 ![image](https://github.com/mohitrajendramahajan/Hotel-Management-System/assets/103811474/968acc11-aa71-4ec9-bb23-a18ed12640af)
+
+
+For any other doubts related you may visit my Power BI workspace:
+============================
+**https://app.powerbi.com/groups/me/reports/5af7e2d9-8a71-414d-b963-1a7bbb0f4ff3/c00e9ee2b6242edcb11e?experience=power-bi**
