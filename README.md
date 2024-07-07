@@ -52,6 +52,12 @@ Data Analysis Using Power BI
 `= Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" or [currency] ="USD#(cr)" then [sales_amount]*75 else [sales_amount], type any)`
 
 HERE ARE SOME REVIEW PHOTOS FOR THE DASHBOARD:
-1. Homepage<br><br>
+1. Total sales qty and amount Sumary<br><br>
 
 ![image](https://github.com/mohitrajendramahajan/Sales_insight/assets/103811474/876d6835-b96a-4126-90d4-574fd6bcc2c2)
+2. Sales by market<br>
+
+![image](https://github.com/mohitrajendramahajan/Hotel-Management-System/assets/103811474/7b0fa2d6-c74d-4038-acae-7c5861d9d492)
+3. Zones by market<br>
+
+![image](https://github.com/mohitrajendramahajan/Hotel-Management-System/assets/103811474/968acc11-aa71-4ec9-bb23-a18ed12640af)
