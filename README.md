@@ -66,3 +66,5 @@ HERE ARE SOME REVIEW PHOTOS FOR THE DASHBOARD:
 For any other doubts related you may visit my Power BI workspace:
 ============================
 **https://app.powerbi.com/groups/me/reports/5af7e2d9-8a71-414d-b963-1a7bbb0f4ff3/c00e9ee2b6242edcb11e?experience=power-bi**
+
+If anyone facing difficulty in login the power Bi page just beacuse you are supposed to use your workspace mail-id instade of outlook ,gmail ,yahoo etc and student may also use their student mail-id provide by their respective universities.
